@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85da2121-f54c-42d4-bca6-a3872b281e1b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="85da2121-f54c-42d4-bca6-a3872b281e1b" name="Changes" comment="Task2">
+      <change afterPath="$PROJECT_DIR$/src/Nov/Task1lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/laboo3useripto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nov/lab0001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nov/lab0001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.lab0001.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.lab0001.executor": "Run",
+    "Python.lab0004.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Python/PythonTraining/PythonATB/src/Nov/lab005.py"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Python\PythonTraining\PythonATB\src" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="lab0001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab0004" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Nov/lab0001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Nov/lab005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab0001" />
+        <item itemvalue="Python.lab0004" />
       </list>
     </recent_temporary>
   </component>
@@ -102,6 +106,19 @@
       <option name="presentableId" value="Default" />
       <updated>1731391277623</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task2">
+      <option name="closed" value="true" />
+      <created>1731394972365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731394972365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task2" />
   </component>
 </project>
