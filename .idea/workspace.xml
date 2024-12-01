@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85da2121-f54c-42d4-bca6-a3872b281e1b" name="Changes" comment="Task of 14th nov tasks">
-      <change afterPath="$PROJECT_DIR$/src/PYTASKS/lab042.py" afterDir="false" />
+    <list default="true" id="85da2121-f54c-42d4-bca6-a3872b281e1b" name="Changes" comment="16th nov tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/16thnov_for loop/lab025task16.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PYTASKS/lab025task16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/16thnov_for loop/lab040taskly.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PYTASKS/lab040taskly.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/16thnov_for loop/lab041taktriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PYTASKS/lab041taktriangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/19thnov_Functions/lab037task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PYTASKS/lab037task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/19thnov_Functions/lab038task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PYTASKS/lab038task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/19thnov_Functions/lab039task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PYTASKS/lab039task3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +57,7 @@
     "Python.lab027.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Python/PythonTraining/PythonATB/src/PYTASKS/lab042.py"
+    "last_opened_file_path": "C:/Python/PythonTraining/pythonProject"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -238,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732865433039</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="16th nov tasks">
+      <option name="closed" value="true" />
+      <created>1732867104695</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1732867104695</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -252,6 +253,7 @@
     <MESSAGE value="19th Nov class" />
     <MESSAGE value="Task of 12th nov completed" />
     <MESSAGE value="Task of 14th nov tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task of 14th nov tasks" />
+    <MESSAGE value="16th nov tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="16th nov tasks" />
   </component>
 </project>
